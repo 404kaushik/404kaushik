@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Building Next-Gen Solutions: Crafting Innovative Software with a Global Perspective 🌐 | Exploring AI, Software Design, and Collaborative Projects**
 
-- 🌱 I’m currently learning **Advanced Algorithms, Cloud Technologies, and Human-Centered Design, Lifelong Learner in Computer Science.**
+- 🌱 I’m currently learning **Advanced Algorithms, Cloud Technologies, and Human-Centered Design, and a lifelong Learner in Computer Science!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
