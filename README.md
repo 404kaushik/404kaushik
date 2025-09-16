@@ -1,9 +1,9 @@
 # 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 Kaushik
 
-[![](https://img.shields.io/badge/-@triple._.a-%23E4405F?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://www.instagram.com/kaushiknag/)
-[![](https://img.shields.io/badge/-@triple._.a-%235865F2?style=for-the-badge&logo=discord&logoColor=ffffff)](https://discord.com/users/tbob_5789)
-[![](https://img.shields.io/badge/-@araf821-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff)]([https://linkedin.com/in/araf821](https://www.linkedin.com/in/kaushiknagtumu/))
-[![](https://img.shields.io/badge/-@araf821-%23181717?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/404kaushik)
+[![](https://img.shields.io/badge/-@kaushiknag-%23E4405F?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://www.instagram.com/kaushiknag/)
+[![](https://img.shields.io/badge/-@tbob_5789-%235865F2?style=for-the-badge&logo=discord&logoColor=ffffff)](https://discord.com/users/tbob_5789)
+[![](https://img.shields.io/badge/-@kaushiknagtumu-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff)]([https://linkedin.com/in/araf821](https://www.linkedin.com/in/kaushiknagtumu/))
+[![](https://img.shields.io/badge/-@404kaushik-%23181717?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/404kaushik)
 
 Based in **Peterborough**, I am a **Computer Science Grad** specialized in **Software Engineering & Data Analytics**!  
 
