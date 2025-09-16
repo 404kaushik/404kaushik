@@ -9,14 +9,11 @@ Based in **Peterborough**, I am a **Computer Science Grad** specialized in **Sof
 
 I'm driven by my love for programming - the idea of building my imaginations to reality with code is something that keeps me up at night! With a **GitHub streak** of over **900 days**, I'm constantly pushing myself to grow and learn.
 
-I aspire to become a **1000x developer**, bringing to life **anything you can imagine**. Stay tuned for some **crazy stuff**! 
-<!-- 
-## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
+I aspire to become a **1000x developer**, bringing to life **anything you can imagine**. Stay tuned for some **crazy stuff**!  
 
-[![Portfolio Website](https://img.shields.io/badge/-Portfolio%20Website-%231a1a1a?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/404kaushik/threeD)
-> The coolest portfolio website you've ever seen.
+---
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## 𝗠𝘆 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸  
 
 ### 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -31,30 +28,30 @@ I aspire to become a **1000x developer**, bringing to life **anything you can im
 ### 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀 & 𝗟𝗶𝗯𝗿𝗮𝗿𝗶𝗲𝘀
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
 ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Gin](https://img.shields.io/badge/-Gin-000000?style=for-the-badge&logo=gin&logoColor=white)
+![Gin](https://img.shields.io/badge/-Gin-000000?style=for-the-badge) <!-- no official logo -->
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Appium](https://img.shields.io/badge/-Appium-FF6F61?style=for-the-badge&logo=appium&logoColor=white)
+![Appium](https://img.shields.io/badge/-Appium-FF6F61?style=for-the-badge) <!-- no official logo -->
 
 ### 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀 & 𝗢𝗥𝗠𝘀
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-![DrizzleORM](https://img.shields.io/badge/-DrizzleORM-000000?style=for-the-badge&logo=drizzle&logoColor=white)
+![DrizzleORM](https://img.shields.io/badge/-DrizzleORM-000000?style=for-the-badge) <!-- no official logo -->
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![NoSQL](https://img.shields.io/badge/-NoSQL-FF6F61?style=for-the-badge&logo=apachecassandra&logoColor=white)
+![NoSQL](https://img.shields.io/badge/-NoSQL-FF6F61?style=for-the-badge) <!-- generic -->
 
 ### 𝗖𝗹𝗼𝘂𝗱 & 𝗗𝗲𝘃𝗢𝗽𝘀
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -67,8 +64,8 @@ I aspire to become a **1000x developer**, bringing to life **anything you can im
 ![AWS RDS](https://img.shields.io/badge/-AWS%20RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
 ![AWS Lambda](https://img.shields.io/badge/-AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
 ![AWS Amplify](https://img.shields.io/badge/-AWS%20Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white)
-![Convex](https://img.shields.io/badge/-Convex-3ECF8E?style=for-the-badge&logo=convex&logoColor=white)
-![Clerk](https://img.shields.io/badge/-Clerk-000000?style=for-the-badge&logo=clerk&logoColor=white)
+![Convex](https://img.shields.io/badge/-Convex-3ECF8E?style=for-the-badge) <!-- no official logo -->
+![Clerk](https://img.shields.io/badge/-Clerk-000000?style=for-the-badge) <!-- no official logo -->
 
 ### 𝗧𝗼𝗼𝗹𝘀 & 𝗢𝘁𝗵𝗲𝗿𝘀
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -80,10 +77,7 @@ I aspire to become a **1000x developer**, bringing to life **anything you can im
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
-## 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀
+---
 
-<!-- ![Araf's GitHub stats](https://github-readme-stats.vercel.app/api?username=araf821&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=araf821&theme=react&hide_border=true&layout=compact&langs_count=8) -->
+## 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=araf821&theme=react&hide_border=true)
-
-[](https://komarev.com/ghpvc/?username=araf821&style=pixel)
