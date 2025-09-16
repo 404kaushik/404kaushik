@@ -78,6 +78,3 @@ I aspire to become a **1000x developer**, bringing to life **anything you can im
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 ---
-
-## 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀  
-![GitHub Streak](https://streak-stats.demolab.com/?user=araf821&theme=react&hide_border=true)
