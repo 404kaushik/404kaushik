@@ -1,13 +1,13 @@
 # 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 Kaushik
 
-[![](https://img.shields.io/badge/-@triple._.a-%23E4405F?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://www.instagram.com/triple._.a/)
-[![](https://img.shields.io/badge/-@triple._.a-%235865F2?style=for-the-badge&logo=discord&logoColor=ffffff)](https://discord.com/users/triple._.a)
-[![](https://img.shields.io/badge/-@araf821-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/araf821)
-[![](https://img.shields.io/badge/-@araf821-%23181717?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/araf821)
+[![](https://img.shields.io/badge/-@triple._.a-%23E4405F?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://www.instagram.com/kaushiknag/)
+[![](https://img.shields.io/badge/-@triple._.a-%235865F2?style=for-the-badge&logo=discord&logoColor=ffffff)](https://discord.com/users/tbob_5789)
+[![](https://img.shields.io/badge/-@araf821-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff)]([https://linkedin.com/in/araf821](https://www.linkedin.com/in/kaushiknagtumu/))
+[![](https://img.shields.io/badge/-@araf821-%23181717?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/404kaushik)
 
 Based in **Peterborough**, I am a **Computer Science Grad** specialized in **Software Engineering & Data Analytics**!  
 
-I'm driven by my love for programming - the idea of building my imaginations to reality with code is something that keeps me up at night! With a **GitHub streak** of over **900 days**, I'm constantly pushing myself to grow and learn.
+I'm driven by my love for programming - the idea of building my imaginations to reality with code is something that keeps me up at night! I'm constantly pushing myself to grow and learn.
 
 I aspire to become a **1000x developer**, bringing to life **anything you can imagine**. Stay tuned for some **crazy stuff**!  
 
